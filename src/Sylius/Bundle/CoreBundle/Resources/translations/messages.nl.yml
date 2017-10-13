@@ -204,6 +204,7 @@ sylius:
                 help: 'Tijdzone %timezone% is verouderd. Fix je php.ini bestand (lijst met verouderde tijdzones http://php.net/manual/en/timezones.others.php).'
             version: PHP versie
             version_recommended: Aanbevolen PHP versie
+            memory_limit: memory_limit
     payum_gateway:
         cash_on_delivery: Onder rembours
         offline: Offline

@@ -203,6 +203,7 @@ sylius:
                 help: 'Časové pásmo %timezone% je zastaralé. Spravte Váš php.ini soubor (seznam zastaralých časových pásem http://php.net/manual/en/timezones.others.php).'
             version: Verze PHP
             version_recommended: Doporučená verze PHP
+            memory_limit: memory_limit
     payum_gateway:
         cash_on_delivery: Platba na dobírku
         offline: Offline

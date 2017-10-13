@@ -204,6 +204,7 @@ sylius:
                 help: 'Le fuseau horaire %timezone% est déconseillé. Corrigez votre fichier php.ini (liste des fuseaux horaires obsolètes http://php.net/manual/fr/timezones.others.php).'
             version: Version de PHP
             version_recommended: Version de PHP recommandée
+            memory_limit: memory_limit
     payum_gateway:
         cash_on_delivery: Paiement à la livraison
         offline: Hors-ligne

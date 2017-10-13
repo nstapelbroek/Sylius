@@ -204,6 +204,7 @@ sylius:
                 help: 'Laiko juosta %timezone% yra pasenusi. Pataisykite savo php.ini failą (pasenusių laiko juostų sąrašas http://php.net/manual/en/timezones.others.php).'
             version: PHP versija
             version_recommended: Rekomenduojama PHP versija
+            memory_limit: memory_limit
     payum_gateway:
         cash_on_delivery: Grynaisiais pristatymo metu
         offline: Neprisijungęs

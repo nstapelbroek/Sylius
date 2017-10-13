@@ -165,3 +165,4 @@ sylius:
                 header: Opuščeni časovni pas
                 help: 'Časovni pas %timezone% je opuščen. Popravite vašo datoteko php.ini (seznam opuščenih časovni pasov http://php.net/manual/en/timezones.others.php).'
             version: Različica PHP
+            memory_limit: memory_limit

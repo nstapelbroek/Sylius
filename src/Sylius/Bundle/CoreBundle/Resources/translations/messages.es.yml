@@ -204,6 +204,7 @@ sylius:
                 help: 'La zona horaria %timezone% está obsoleta. Arregla tu fichero php.ini (lista de zonas horarias obsoletas http://php.net/manual/en/timezones.others.php).'
             version: Versión de PHP
             version_recommended: Versión de PHP recomendada
+            memory_limit: memory_limit
     payum_gateway:
         cash_on_delivery: Pago contra reembolso
         offline: Desconectado

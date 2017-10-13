@@ -186,3 +186,5 @@ sylius:
             timezone_deprecated:
                 help: 'El fus horari %timezone% és obsolet. Cal corregir el fitxer php. ini (llista de zones horàries obsolet http://php.net/manual/en/timezones.others.php).'
             version: Versió PHP
+            memory_limit: memory_limit
+

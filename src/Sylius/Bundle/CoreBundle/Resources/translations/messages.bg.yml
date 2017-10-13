@@ -204,6 +204,7 @@ sylius:
                 help: 'Часовата зона %timezone% е непрепоръчителена. Коригирате вашия php.ini файл (списък на остарелите часови зони http://php.net/manual/en/timezones.others.php).'
             version: Версия на PHP
             version_recommended: Препоръчителни PHP версия
+            memory_limit: memory_limit
     payum_gateway:
         cash_on_delivery: Плащане при доставка
         offline: Офлайн

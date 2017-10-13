@@ -204,6 +204,7 @@ sylius:
                 help: 'Гадзінны пояс %timezone% састарэў. Папраўце Ваш файл php.ini (спіс састарэлых гадзінных паясоў можна знайсці на http://php.net/manual/en/timezones.others.p).'
             version: Версія PHP
             version_recommended: Рэкамендаваная версія PHP
+            memory_limit: memory_limit
     payum_gateway:
         cash_on_delivery: Наяўнымі пры дастаўцы
         offline: Афлайн

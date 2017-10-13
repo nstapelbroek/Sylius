@@ -193,6 +193,7 @@ sylius:
                 help: 'Fusul orar %timezone% este învechit. Corectează fişierul php.ini (lista fusuri orere învechite http://php.net/manual/en/timezones.others.php).'
             version: Versiunea PHP
             version_recommended: Versiunea PHP recomandată
+            memory_limit: memory_limit
     payum_gateway:
         cash_on_delivery: Plată la livrare (ramburs)
         offline: Offline

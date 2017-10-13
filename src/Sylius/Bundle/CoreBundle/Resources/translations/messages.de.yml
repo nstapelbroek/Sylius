@@ -204,6 +204,7 @@ sylius:
                 help: 'Zeitzone %timezone% ist veraltet. Korriegiere die php.ini Datei (Liste der veralteten Zeitzonen: http://php.net/manual/en/timezones.others.php).'
             version: PHP Version
             version_recommended: Empfohlene PHP Version
+            memory_limit: memory_limit
     payum_gateway:
         cash_on_delivery: Nachnahme
         offline: Offline

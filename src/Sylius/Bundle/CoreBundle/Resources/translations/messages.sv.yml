@@ -204,6 +204,7 @@ sylius:
                 help: 'Tidszonen %timezone% är utgången. Åtgärda din php.ini fil (lista med utgångna tidzoner http://php.net/manual/en/timezones.others.php).'
             version: PHP-version
             version_recommended: Rekommenderad PHP-version
+            memory_limit: memory_limit
     payum_gateway:
         cash_on_delivery: Postförskott
         offline: Offline

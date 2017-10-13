@@ -204,6 +204,7 @@ sylius:
                 help: 'Timezone %timezone% er forældet. Fix din php.ini fil (listen over forældede tidszoner http://php.net/manual/en/timezones.others.php).'
             version: PHP version
             version_recommended: Anbefalet PHP version
+            memory_limit: memory_limit
     payum_gateway:
         cash_on_delivery: Betaling pr. efterkrav
         offline: Offline

@@ -176,3 +176,4 @@ sylius:
                 header: Zonë orare e papranueshme
                 help: 'Zona orare %timezone% nuk pranohet. is deprecated. Korrigjo php.ini file (lista e zonave orare të kundërshtuara http://php.net/manual/en/timezones.others.php).'
             version: Versioni PHP
+            memory_limit: memory_limit

@@ -167,3 +167,4 @@ sylius:
                 header: Zastarjela vremenska zona
                 help: 'Vremenska zona %timezone% je zastarjela. Ispravite vaš php.ini dokument (popis zastarjelih zona http://php.net/manual/en/timezones.others.php).'
             version: Verzija PHP-a
+            memory_limit: memory_limit

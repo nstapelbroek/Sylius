@@ -204,6 +204,7 @@ sylius:
                 help: 'Tidssonen %timezone% er avskrevet. Du må redigere din php.ini-fil (liste over avskrevene tidssoner http://php.net/manual/en/timezones.others.php).'
             version: PHP-versjon
             version_recommended: Anbefalt PHP-versjon
+            memory_limit: memory_limit
     payum_gateway:
         cash_on_delivery: Kontant ved levering
         offline: Offline

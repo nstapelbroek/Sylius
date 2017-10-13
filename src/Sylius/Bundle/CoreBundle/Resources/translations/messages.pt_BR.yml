@@ -204,6 +204,7 @@ sylius:
                 help: 'Fuso horário %timezone% está obsoleto. Corrija o seu arquivo php. ini (lista de fusos horários preterido http://php.net/manual/en/timezones.others.php).'
             version: Versão do PHP
             version_recommended: Versão recomendada do PHP
+            memory_limit: memory_limit
     payum_gateway:
         cash_on_delivery: Pagamento em dinheiro na entrega
         offline: Desconectado

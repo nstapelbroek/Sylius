@@ -204,6 +204,7 @@ sylius:
                 help: 'Timezone %timezone% is deprecated. Fix your php.ini file (list of deprecated timezones http://php.net/manual/en/timezones.others.php).'
             version: PHP เวอร์ชัน
             version_recommended: PHP เวอร์ชันที่แนะนำ
+            memory_limit: memory_limit
     payum_gateway:
         cash_on_delivery: ชำระด้วยเงินสด
         offline: ออฟไลน์

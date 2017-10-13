@@ -204,6 +204,7 @@ sylius:
                 help: 'Strefa czasowa %timezone% jest przestarzała. Popraw wpis w pliku php.ini (lista przestarzałych stref czasowych: http://php.net/manual/en/timezones.others.php).'
             version: Wersja PHP
             version_recommended: Rekomendowana wersja PHP
+            memory_limit: memory_limit
     payum_gateway:
         cash_on_delivery: Opłata za pobraniem
         offline: Tryb offline

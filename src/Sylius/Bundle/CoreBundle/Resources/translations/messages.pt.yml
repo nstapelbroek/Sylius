@@ -182,6 +182,7 @@ sylius:
             short_open_tag: short_open_tag
             timezone: fuso horário
             version: Versão de PHP
+            memory_limit: memory_limit
     payum_gateway:
         cash_on_delivery: Pagamento na entrega
         offline: Offline

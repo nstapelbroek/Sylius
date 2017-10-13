@@ -204,6 +204,7 @@ sylius:
                 help: 'Η Ζώνη ώρας %timezone% δεν χρησιμοποιείται. Διορθώσετε το αρχείο php.ini σας (λίστα με μη χρησιμοποιούμενες ζώνες ώρας εδώ http://php.net/manual/en/timezones.others.php).'
             version: Έκδοση PHP
             version_recommended: Προτεινόμενη έκδοση PHP
+            memory_limit: memory_limit
     payum_gateway:
         cash_on_delivery: Αντικαταβολή
         offline: Εκτός σύνδεσης

@@ -169,3 +169,4 @@ sylius:
                 header: Kullanılmayan Zaman Dilimi
                 help: '%timezone% zaman dilimi kaldırılmıştır. php.ini dosyanızda gerekli düzenlemeyi yapın. (Kaldırılan tüm zaman dilimleri http://php.net/manual/en/timezones.others.php).'
             version: PHP versiyon
+            memory_limit: memory_limit
